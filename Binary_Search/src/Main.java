@@ -21,3 +21,5 @@ public class Main {
         return -1;
     }
 }
+//In 2d array number of rows adding is mandatory not yhe columns
+//eg: int[][] arr=new int [3][];
