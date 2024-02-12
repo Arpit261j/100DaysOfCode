@@ -3,11 +3,11 @@ public class SingleNumber {
         int[] arr={4,1,2,1,2};
         System.out.println(singleNumber(arr));
     }
-    public static int singleNumber(int[] nums) {
-        int num=nums[0];
+    public static int singleNumber(int[] nums){
+        int num1=nums[0];
         for(int i=1;i<nums.length;i++) {
-            num=num^nums[i];
+            num1=num1^nums[i];
         }
-        return num;
+        return num1;
     }
 }
