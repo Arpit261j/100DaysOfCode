@@ -4,10 +4,10 @@ public class SingleNumber {
         System.out.println(singleNumber(arr));
     }
     public static int singleNumber(int[] nums){
-        int num1=nums[0];
+        int num2=nums[0];
         for(int i=1;i<nums.length;i++) {
-            num1=num1^nums[i];
+            num2=num2^nums[i];
         }
-        return num1;
+        return num2;
     }
 }
