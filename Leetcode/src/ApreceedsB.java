@@ -1,6 +1,6 @@
 public class ApreceedsB {
     public static void main(String[] args) {
-        String s="aaab";
+        String s="aab";
         System.out.println(solution(s));
     }
     public static boolean solution(String s) {
