@@ -1,4 +1,4 @@
-public class test {
+public class RomanToInteger {
     public static void main(String[] args) {
         String s="MCDLXXVI";
         System.out.println(romanToInt(s));
@@ -41,7 +41,7 @@ public class test {
             } else if(s.charAt(i)=='C') {
                 if(i!=s.length()-1) {
                     if(s.charAt(i+1)=='D') {
-                        sum+=500;
+                        sum+=400;
                         i++;
                         continue;
                     }
