@@ -1,5 +1,5 @@
 public class CountingWordsWithprefix {
-    public static void main(String[] args) {git status
+    public static void main(String[] args) {
         String[] s= {"pay","attention","practice","attend"};
         System.out.println(prefixCount(s,"at"));
     }
