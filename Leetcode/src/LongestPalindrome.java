@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.*;
-
-public class test {
+public class LongestPalindrome {
     public static void main(String[] args) {
         String s="cccc";
         System.out.println(longestPalindrome(s));
