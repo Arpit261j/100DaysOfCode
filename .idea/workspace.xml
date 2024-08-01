@@ -5,7 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22b9519-90c7-4c58-bf45-e2ea30e261bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Search/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Search/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Search/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberSystem/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSystem/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Pattern/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/META-INF/resources/WEB-INF/jsp/listTodos.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/META-INF/resources/WEB-INF/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/META-INF/resources/WEB-INF/jsp/sayHello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/META-INF/resources/WEB-INF/jsp/welcome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/Hello/SayHelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/TodoAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/login/AuthenticationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/login/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/todo/Todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/todo/TodoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/classes/com/arpit/TodoApp/todo/TodoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/test-classes/com/arpit/TodoApp/TodoAppApplicationTests-LAPTOP-LRSECH58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/TodoApp/target/test-classes/com/arpit/TodoApp/TodoAppApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,63 +53,126 @@
     &quot;assignee&quot;: &quot;Arpit261j&quot;
   }
 }</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arpit261j/100DaysOfCode.git&quot;,
+    &quot;accountId&quot;: &quot;c5c38aaa-d300-4d3e-aae9-3ac6d2ccb9d0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2Z5v9dpNgjb13Efie86huypkYh7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GoalParserInterpretation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidParenthesis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging temp&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ARPIT/OneDrive/Desktop/100_daysOfCode/DSA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BaseballGame.executor": "Run",
+    "Application.CommonChars.executor": "Run",
+    "Application.CountStringList.executor": "Run",
+    "Application.EvenOddSum.executor": "Run",
+    "Application.FindMaxMinValue.executor": "Run",
+    "Application.FindMaxValue.executor": "Run",
+    "Application.GoalParserInterpretation.executor": "Run",
+    "Application.LL.executor": "Debug",
+    "Application.LongestPalindrome.executor": "Run",
+    "Application.LowerCaseUpperCaseStrings.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxMinValue.executor": "Run",
+    "Application.NumericStreamBoxingUnboxingExample.executor": "Run",
+    "Application.NumericStreamMapExample.executor": "Run",
+    "Application.NumericStreamsExample.executor": "Run",
+    "Application.NumericStreamsSumExample.executor": "Run",
+    "Application.NumricStreamAggregateExample.executor": "Run",
+    "Application.Oops (1).executor": "Run",
+    "Application.Oops.executor": "Run",
+    "Application.PredicateExample.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.SortList.executor": "Run",
+    "Application.SteamMatchExample.executor": "Run",
+    "Application.StreamExample.executor": "Run",
+    "Application.StreamFindExample.executor": "Run",
+    "Application.StreamLimitSkipExample.executor": "Run",
+    "Application.StreamMapExample.executor": "Run",
+    "Application.StreamMapFIlterReduceExample.executor": "Run",
+    "Application.StreamOfGenerateIterateExample.executor": "Run",
+    "Application.StreamReduceExample.executor": "Run",
+    "Application.StreamsComparatorExample.executor": "Run",
+    "Application.StreamsCountingExample.executor": "Run",
+    "Application.StreamsFilterExample.executor": "Run",
+    "Application.StreamsFlatMapExample.executor": "Run",
+    "Application.StreamsJoiningExample.executor": "Run",
+    "Application.StreamsMappingExample.executor": "Run",
+    "Application.StreamsMinByMaxByExample.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
+    "Application.findAverage.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "temp",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JARVIS/Desktop/New folder/JAVA",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
-}</component>
-  <component name="RunManager" selected="Application.CommonChars">
-    <configuration name="CommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonChars" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Streams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.practice.MaxMinValue" />
       <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoalParserInterpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoalParserInterpretation" />
-      <module name="DSA" />
+    <configuration name="Oops (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops" />
+      <module name="Binary_Search" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestPalindrome" />
-      <module name="DSA" />
+    <configuration name="Oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops" />
+      <module name="Binary_Search" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidParenthesis" />
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.practice.SortList" />
       <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommonChars" />
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.GoalParserInterpretation" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Oops" />
+        <item itemvalue="Application.Oops (1)" />
+        <item itemvalue="Application.MaxMinValue" />
+        <item itemvalue="Application.SortList" />
       </list>
     </recent_temporary>
   </component>
